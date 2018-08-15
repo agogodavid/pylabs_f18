@@ -2,6 +2,6 @@
 
 To copy this to your computer to work on the assignment, type in the command below
 
-`! git clone https://github.com/agogodavid/pylabs_github/`
+`! git clone https://github.com/agogodavid/pylabs_f18/`
 
 If you do not have git installed on your computer you will have to do so. Visit this link for instructions: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
